@@ -16,7 +16,7 @@ class StudentLifeApp extends StatelessWidget {
         body: const Center(
           child: Text(
             'Selamat datang di '
-            'Universitas Islam Sultan Agung!',
+            'Student Life Assistant!',
           ),
         ),
       ),
